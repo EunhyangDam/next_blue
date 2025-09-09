@@ -14,10 +14,11 @@ export default function Section2Componet() {
             <div className="col2">
               <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Laudantium tempore quam ab excepturi a dignissimos velit
-                aperiam, consequatur quia vel ipsam eum, odio tempora, nostrum
-                officia sed eveniet aspernatur laborum.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. A
+                aspernatur dolorum voluptas nesciunt, voluptatibus eveniet
+                laboriosam, laborum, provident voluptates natus enim saepe
+                perferendis. Tempora, veritatis deleniti? Adipisci asperiores
+                sed dolor.
               </p>
             </div>
           </div>
