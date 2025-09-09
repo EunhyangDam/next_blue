@@ -48,7 +48,7 @@ export default function HeaderComponent() {
         <h1>
           <Link href="/" title="푸른마을">
             <span>푸른</span>
-            <em>마을</em>
+            <em>은향</em>
           </Link>
         </h1>
       </div>
